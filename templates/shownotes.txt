@@ -1,0 +1,3 @@
+# <%=$PLASTER_PARAM_EpisodeName%>
+
+[Episode Link](<%=$PLASTER_PARAM_EpisodeURL%>)

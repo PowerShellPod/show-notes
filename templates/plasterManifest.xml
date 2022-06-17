@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plasterManifest
+  schemaVersion="1.1"
+  templateType="Item" xmlns="http://www.microsoft.com/schemas/PowerShell/Plaster/v1">
+  <metadata>
+    <name>ShowNoteTemplate</name>
+    <id>84ce671b-15dc-46a5-830f-48cbc9d5f09e</id>
+    <version>0.0.1</version>
+    <title>Show Notes Template</title>
+    <description></description>
+    <author>Andrew Pla @AndrewPlaTech</author>
+    <tags></tags>
+  </metadata>
+  <parameters>
+      <parameter name="EpisodeName" type="text" prompt="Name of the episode" />
+      <parameter name="FileName" type="text" prompt="Name of the file to create. " />
+       <parameter name="EpisodeURL" type="text" prompt="Episode URL" />
+      <parameter name="EpisodeNumber" type="text" prompt="Episode Number" />
+  </parameters>
+  <content>
+   <templateFile source='shownotes.txt' destination='${PLASTER_PARAM_EpisodeNumber}-${PLASTER_PARAM_FileName}.md' openInEditor = 'true'/>
+  </content>
+</plasterManifest>

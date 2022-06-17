@@ -1,2 +1,3 @@
-# show-notes
-Contains the show notes for the PowerShell Podcast
+# Show Notes
+
+Contains the show notes for the [PowerShell Podcast](https://powershellpodcast.podbean.com/)

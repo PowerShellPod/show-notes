@@ -14,7 +14,6 @@
   <parameters>
       <parameter name="EpisodeName" type="text" prompt="Name of the episode" />
       <parameter name="FileName" type="text" prompt="Name of the file to create. " />
-       <parameter name="EpisodeURL" type="text" prompt="Episode URL" />
       <parameter name="EpisodeNumber" type="text" prompt="Episode Number" />
   </parameters>
   <content>

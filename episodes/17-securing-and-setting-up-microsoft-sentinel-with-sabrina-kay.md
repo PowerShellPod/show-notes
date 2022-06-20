@@ -1,6 +1,6 @@
 # Securing and Setting up Microsoft Sentinel with Sabrina Kay
 
-[Episode Link](https://powershellpodcast.podbean.com)
+[Episode Link](https://powershellpodcast.podbean.com/e/securing-and-setting-up-microsoft-sentinel-with-sabrina-kay/)
 
 Episode Summary:
 

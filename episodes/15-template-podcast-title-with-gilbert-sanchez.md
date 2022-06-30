@@ -16,8 +16,8 @@ Gilbert Sanchez is a Señor Systems Engineer at meta, spreading the love of Powe
 
 Gilbert Twitter - https://twitter.com/HeyItsGilbertS 
 
-Gilbert Git - HeyItsGilbert (Gilbert Sanchez) (github.com) 
+Gilbert Git - [HeyItsGilbert (Gilbert Sanchez)](https://github.com/HeyItsGilbert) (github.com)
 
-Stucco - devblackops/Stucco: An opinionated Plaster template for high-quality PowerShell modules (github.com) 
+Stucco - [devblackops/Stucco: An opinionated Plaster template for high-quality PowerShell modules](https://github.com/devblackops/Stucco) (github.com) 
 
-Plaster - PowerShellOrg/Plaster: Plaster is a template-based file and project generator written in PowerShell. (github.com) 
+Plaster - [PowerShellOrg/Plaster: Plaster is a template-based file and project generator written in PowerShell.](https://github.com/PowerShellOrg/Plaster) (github.com) 
